@@ -1,2 +1,2 @@
 # WhatsUpDev
-This repository is to develop a chat
+This repository is to update a chat
